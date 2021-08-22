@@ -1,0 +1,177 @@
+            body {
+                width: 750px;
+                padding: 0;
+                margin: 0;
+                font-family: sans-serif;
+            }
+            
+            .header {
+                display: flex;
+                background-color: #2D7053;
+            }
+            
+            .elips {
+                margin: 45px 0px 48px 37px;
+            }
+            
+            .heading {
+                width: 134px;
+                height: 131px;
+                font-size: 30px;
+                color: #ffffff;
+                margin: 45px 0px 0px 58px;
+            }
+            
+            .m1 {
+                margin-top: 83px;
+                margin-left: 250px;
+            }
+            
+            .m2 {
+                margin-top: 15px;
+                margin-left: 250px;
+            }
+            
+            .m3 {
+                margin-top: 15px;
+                margin-left: 250px;
+            }
+            
+            .but {
+                height: 466px;
+                background-image: url(../img/Картинка.png);
+                background-position: center left;
+                background-origin: border-box;
+            }
+            
+            .button {
+                width: 341px;
+                height: 74px;
+                background-color: #cb9223;
+                border: none;
+                margin-left: 205px;
+                margin-top: 345px;
+            }
+            
+            .text {
+                color: white;
+                text-align: center;
+                text-decoration-line: none;
+                font-size: 16pt;
+            }
+            
+            .butt {
+                width: 705px;
+                height: auto;
+            }
+            
+            .container {
+                display: flex;
+            }
+            
+            .psih {
+                display: flex;
+                margin-top: 73px;
+                margin-left: 44px;
+                border-radius: 50%;
+            }
+            
+            .text2 {
+                display: flex;
+                margin-top: 134px;
+                margin-left: 75px;
+            }
+            
+            .if {
+                font-size: 36px;
+            }
+            
+            .ptt {
+                margin-top: 25px;
+                font-size: 24px;
+            }
+            
+            .text3 {
+                margin-top: 60px;
+                margin-left: 44px;
+                font-size: 24px;
+            }
+            
+            .text4 {
+                margin-left: 44px;
+                font-size: 36px;
+            }
+            
+            .text5 {
+                margin-left: 44px;
+                font-size: 24px;
+            }
+            
+            .button2 {
+                width: 341px;
+                height: 74px;
+                background-color: #cb9223;
+                border: none;
+                margin-left: 218px;
+                margin-top: 20px;
+                margin-bottom: 50px;
+            }
+            
+            .footer {
+                display: flex;
+                flex-direction: row;
+                height: 154px;
+                width: 751px;
+            }
+            
+            .elips2 {
+                width: 185px;
+                background-color: #888888;
+                padding: 0px;
+                font-size: 1rem;
+                color: white;
+            }
+            
+            .elips3 {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                padding-top: 28.5px;
+                margin-left: 44px;
+                margin-right: 44px;
+            }
+            
+            .adr {
+                width: 381px;
+                background-color: #888888;
+                padding: 0px;
+                font-size: 1rem;
+                color: white;
+                padding-top: 103px;
+                padding-left: 140px;
+            }
+            
+            .a {
+                width: 185px;
+                background-color: #888888;
+                padding: 0px;
+                font-size: 1rem;
+                color: white;
+            }
+            
+            .tel {
+                display: block;
+                margin-right: 44px;
+                padding-top: 57px;
+            }
+            
+            .mail {
+                display: block;
+                margin-right: 44px;
+                margin-top: 28px;
+            }
+            
+            .infa {
+                text-decoration: none;
+                color: white;
+            }
